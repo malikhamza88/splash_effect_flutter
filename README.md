@@ -1,6 +1,8 @@
-# splasheffect
+# Splash Effect in Flutter
 
-A new Flutter application.
+This code create a clickable widget that create splashy effect.
+
+![](demo.gif)
 
 ## Getting Started
 
